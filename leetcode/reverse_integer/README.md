@@ -1,7 +1,7 @@
 # Reverse Integer
 
 ### Function execution time
-Wowowow the same time complexity for the algorithm since I basically just reimplemented to algorithm in Go but look at Go's performance... Damn.
+Wowowow the same time complexity for the algorithm since I basically just reimplemented the algorithm in Go but look at Go's performance... Damn.
 - Java: 400 nanoseconds
 - Go: 0 nanoseconds
 
